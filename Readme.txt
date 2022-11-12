@@ -2,8 +2,7 @@ User (Nhân viên)
 - Đăng nhập (Nếu role là 1 thì đăng nhập vào trang user, lấy tt user vừa đăng nhập)
 - Home gồm cv cần làm ( ghi sơ sơ như tờ node cũng đc tạo 1 fragment đơn giản thôi)
 - Thanh navigation bên trái xổ ra gồm tính năng:
-  + Xem tt cá nhân (đổi mk, và sửa tt cá nhân địaa chỉ email, id không đc sửa)
-  + Logout
+  + Logout (Quay lại trang đăng nhập thôi)
   + **ĐĂNG KÝ NGHỈ PHÉP** : Bao gồm ( từ ngày nào tới ngày nào, lí do xin nghỉ phép, sau đó nhấn nút xác nhận)
   + Xem tình trạng đơn nghỉ phép ( đơn của mình đc chấp thuận hay chưa)/
 
@@ -17,7 +16,7 @@ Quản lí
    - Tạo mới nghỉ phép với uid của nv nào đó
   + Quản lý tt nv
    - Thêm, sửa, xoá thông tin nhân viên
-  + Quản lý lương:
+  + Quản lý lương(Làm đơn giản nhất có thể tính được lương ngày có phép hoặc không thôi):
    - Tổng kết lương nv
    - tính lương nv đã nghỉ phép:
 	+ gồm ngày nghỉ có phép thì vẫn tính lương 1 tháng 28 ngày
